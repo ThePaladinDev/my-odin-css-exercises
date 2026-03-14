@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.yes-btn,
+.no-btn {
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-size: 28px;
+}
+
+.yes-btn {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.no-btn {
+  background-color: #ffff00;
+}
